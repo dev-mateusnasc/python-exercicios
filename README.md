@@ -22,6 +22,3 @@ Este repositório contém exercícios e pequenos projetos desenvolvidos durante 
 ### Simulações
 - Simulador de multa por velocidade
 - Cálculo de valor de passagem
-
-### Jogos
-- Jogo de adivinhação com número aleatório
